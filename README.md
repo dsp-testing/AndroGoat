@@ -9,7 +9,7 @@ Vulnerabilities covered in this app:
 1. Root Detection</br>
 2. Emulator Detection</br>
 3. Insecure Data Storage – Shared Prefs - 1</br>
-4. Insecure Data Storage - Shared Prefs - 2</br>
+4. Insecure Data Storage - Shared Prefs - 2</br>f
 5. Insecure Data Storage - SQLite</br>
 6. Insecure Data Storage – Temp Files</br>
 7. Insecure Data Storage – SD Card</br>
